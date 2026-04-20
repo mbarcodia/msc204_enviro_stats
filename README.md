@@ -1,2 +1,4 @@
 # msc204_enviro_stats
-tutorial and lecture notebooks for MSC204 Environmental Statistics
+Tutorial and lecture notebooks for MSC204 Environmental Statistics
+
+Created by Professor Marybeth Arcodia for use in MSC204 Spring 2026
